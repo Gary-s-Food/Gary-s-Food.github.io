@@ -1,0 +1,70 @@
+body {}
+
+#titel {
+  color: #222;
+  animation-name: textcolor;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes textcolor {
+  0% {
+    color: #222;
+  }
+  50% {
+    color: #4285f4;
+  }
+  100 {
+    color: #222;
+  }
+}
+
+#knop {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #00bfff;
+  border: 5px ridge blue;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: alias;
+  margin: 5px;
+}
+
+#knop span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#knop span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#knop:hover span {
+  padding-right: 25px;
+}
+
+#knop:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+#service {
+  margin: auto;
+  padding: 10px;
+  width: 391px;
+  background-color: #2879e9;
+}
+
+#inv {
+  border: 1px black dashed;
+}
