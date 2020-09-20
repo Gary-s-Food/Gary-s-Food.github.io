@@ -33,8 +33,10 @@
   margin: 0px;
 }
 
-body{
+body, html{
   margin:0px;
+  height: 100%;
+  //background: url("../images/bg.jpg");
 }
 
 #menu {
@@ -57,4 +59,22 @@ body{
 
 #menu > li:hover {
   background: #444444;
+}
+
+.content {
+  background: #ffffff;
+  height: auto;
+}
+
+.bg {
+  /* The image used */
+  background: url("../images/bg.jpg");
+
+  /* Full height */
+  height: 20%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
