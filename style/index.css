@@ -93,3 +93,7 @@ p {
   width: 100%;
   background-color: blue;
 }
+
+#imp img {
+  display: inline;
+}
