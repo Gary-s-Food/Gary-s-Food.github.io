@@ -9,6 +9,7 @@
   animation-name: textcolor;
   animation-duration: 2s;
   animation-iteration-count: infinite;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 @keyframes textcolor {
