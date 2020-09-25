@@ -68,14 +68,13 @@ body, html{
 }
 
 .bg {
-  /* The image used */
   background: url("../images/bg.jpg");
-
-  /* Full height */
   height: 20%;
-
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.over {
+  font-size: 18pt;
 }
