@@ -55,6 +55,7 @@ body, html{
   display: inline-block;
   width: 20%;
   background: #111111;
+  cursor: pointer;
 }
 
 #menu > li:hover {
