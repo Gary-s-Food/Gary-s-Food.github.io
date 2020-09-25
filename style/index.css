@@ -107,5 +107,6 @@ p {
 
 #copyright {
   font-size: 8pt;
-  float: bottom-right;
+  float: right;
+  position: absolute;
 }
