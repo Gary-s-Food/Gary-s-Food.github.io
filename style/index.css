@@ -68,7 +68,7 @@ body, html{
 
 .content {
   background: #ffffff;
-  height: auto;
+  height: 100%;
 }
 
 .bg {
