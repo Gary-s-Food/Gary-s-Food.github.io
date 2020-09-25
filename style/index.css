@@ -104,3 +104,8 @@ p {
   font-size: 20;
   display: inline;
 }
+
+#copyright {
+  font-size: 8pt;
+  float: bottom-right;
+}
