@@ -88,3 +88,9 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15pt;
 }
+
+#imp {
+  height: 100%;
+  width: auto;
+  background-color: blue;
+}
