@@ -90,7 +90,6 @@ p {
 }
 
 #imp {
-  height: 100%;
-  width: auto;
+  width: 100%;
   background-color: blue;
 }
