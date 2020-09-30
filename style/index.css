@@ -123,3 +123,8 @@ p {
   background-color: cyan;
   border: black 2px solid;
 }
+
+#jh td {
+  border: black 1px solid;
+  text-align: center;
+}
