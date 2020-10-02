@@ -64,7 +64,7 @@ body, html{
   text-decorations: none;
 }
 
-#menu > li:hover {
+#menu li:hover {
   background: #444444;
 }
 
