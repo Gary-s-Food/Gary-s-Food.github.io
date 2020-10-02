@@ -52,10 +52,11 @@ body, html{
   background: black;
 }
 
-#menu  li {
+#menu li {
   font-size: 20pt;
   text-align: center;
   display: inline-block;
+  color: #ffffff;
   width: 20%;
   background: #111111;
   cursor: pointer;
