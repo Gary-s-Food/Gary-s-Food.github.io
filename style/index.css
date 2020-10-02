@@ -69,6 +69,7 @@ body, html{
 .content {
   background: #ffffff;
   height: 100%;
+  padding-left: 6px
 }
 
 .bg {
