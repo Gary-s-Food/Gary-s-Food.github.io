@@ -89,6 +89,11 @@ body, html{
 
 p {
   font-family: Arial, Helvetica, sans-serif;
+  
+#sral {
+  background-color: cyan;
+  width: 100%;
+}
   font-size: 15pt;
 }
 
@@ -145,3 +150,7 @@ p {
   font-size: 15pt;
 }
 
+#about {
+  background-color: white;
+  width: 100%;
+}
