@@ -118,12 +118,15 @@ p {
 
 #ab {
   background-color: #ffffff;
-  width: 100%;
+  width: 40%;
+  border-radius: 25px;
 }
 
 #jh {
   background-color: cyan;
-  border: black 2px solid;
+  border: white 2px solid;
+  border-radius: 25px;
+  width: 40%;
 }
 
 #jh td {
