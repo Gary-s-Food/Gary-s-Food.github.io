@@ -130,7 +130,7 @@ p {
   width: 40%;
 }
 
-#jh, th, td {
+#jh th, td {
   border: 1px solid black;
   text-align: center;
 }
