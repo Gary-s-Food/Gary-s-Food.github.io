@@ -126,9 +126,12 @@ p {
   background-color: cyan;
   border: white 2px solid;
   border-radius: 25px;
+  border-collapse: collapse;
   width: 40%;
 }
 
-#jh td {
+#jh, th, td {
+  border: 1px solid black;
   text-align: center;
 }
+
