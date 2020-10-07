@@ -134,6 +134,13 @@ p {
   border: 1px solid black;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+#jh th {
+  font-size: 20px;
+}
+
+#jh td {
   font-size: 15pt;
 }
 
