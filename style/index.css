@@ -128,7 +128,7 @@ p {
   border-radius: 25px;
   border-collapse: collapse;
   width: 40%;
-  float: left;
+  float: right;
 }
 
 #jh th, td {
