@@ -132,9 +132,8 @@ p {
 
 #sral {
   background-color: orange;
-  height: 213px;
   margin: 0px;
   padding: 1px;
   width: 40%;
-  float: left;
+  float: right;
 } 
