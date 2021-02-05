@@ -2,13 +2,10 @@
   position: static;
   width: 100%;
   background: black;
-  color: #fff;
+  color: cmyk(0,90,100,0);
   margin: 0px;
   padding: 0px;
   height: 30px;
-  animation-name: textcolor;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
   font-family: Arial, Helvetica, sans-serif;
   padding-bottom: 5px;
 }
@@ -17,17 +14,6 @@ h3 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-@keyframes textcolor {
-  0% {
-    color: #fff;
-  }
-  50% {
-    color: #4285f4;
-  }
-  100 {
-    color: #fff;
-  }
-}
 
 .header img {
   height: 100%;
