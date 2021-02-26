@@ -113,6 +113,7 @@ p {
   border-collapse: collapse;
   float: right;
   margin: 0px;
+  width 100%;
 }
 
 #jh th, td {
@@ -138,6 +139,6 @@ p {
   background-color: orange;
   margin: 0px;
   padding: 1px;
-  width: 40%;
+  width: 30%;
   float: right;
 } 
