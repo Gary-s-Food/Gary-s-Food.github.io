@@ -139,6 +139,6 @@ p {
   background-color: orange;
   margin: 0px;
   padding: 1px;
-  width: 30%;
+  width: auto;
   float: right;
 } 
